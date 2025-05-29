@@ -14,7 +14,7 @@ To create an **abstract class** named `Shape` with an **abstract method** `calcu
 2. **Create Abstract Class `Shape`**:
    - Define an abstract method `calculate_area()` with `@abstractmethod`.
 
-3. **Create Subclass `Rectangle`**:
+3. **Create Subclass `Rectangle`**: 
    - Set default values for `length` and `breadth`.
    - Override `calculate_area()` to compute the rectangle area.
 
